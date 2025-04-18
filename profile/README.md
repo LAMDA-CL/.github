@@ -24,8 +24,8 @@ We investigate both **theoretical foundations** and **practical algorithms** for
 
 We contribute to the community with practical and research-oriented toolkits:
 
-- [**PyCIL**](https://github.com/LAMDA-CL/LAMDA-PILOT): An open-source Python toolbox for class-incremental learning.
-- [**PILOT**](https://github.com/LAMDA-CL/PyCIL): A toolkit for pre-trained model-based continual learning.
+- [**PyCIL**](https://github.com/LAMDA-CL/PyCIL): An open-source Python toolbox for class-incremental learning.
+- [**PILOT**](https://github.com/LAMDA-CL/LAMDA-PILOT): A toolkit for pre-trained model-based continual learning.
 
 ## 🎓 Join Us
 
